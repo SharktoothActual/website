@@ -1,4 +1,5 @@
 [params]
+site_logo = "images/shark.jpeg"
 background_color_class = "bg-blue"
 mainSections = ["posts"]
 recent_posts_number = 3
