@@ -1,11 +1,11 @@
 baseURL = 'https://sharktoothactual.github.io/website/'
 locale = 'en-us'
-title = 'Test Website'
+title = "Shark's Website"
 theme = 'ananke'
 [params]
-  subtitle = 'Test Subtitle located in hugo.toml'
+  subtitle = 'A very good website (but not always!)'
   mainSections = ["posts"]
   show_recent_posts = true
   [params.contact]
-    email = 'info@example.org'
-    phone = '+1 202-555-1212'
+    email = 'shark@sharktooth.meme'
+    phone = '+1 111-867-5309'
