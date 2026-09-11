@@ -3,8 +3,9 @@ locale = 'en-us'
 title = 'Test Website'
 theme = 'ananke'
 [params]
-  subtitle = 'Test Subtitle'
+  subtitle = 'Test Subtitle located in hugo.toml'
   mainSections = ["posts"]
+  show_recent_posts = true
   [params.contact]
     email = 'info@example.org'
     phone = '+1 202-555-1212'
