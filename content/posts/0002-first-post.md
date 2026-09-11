@@ -1,6 +1,9 @@
 +++
 title = 'First post, fourth revision'
+featured_image = "/images/header.png"
+omit_header_text = false
 date = 2026-09-11T14:09:00-06:00
+summary = 'You ever find yourself doing the same thing over and over again?'
 draft = false
 +++
 # The fourth time is the charm
