@@ -1,7 +1,7 @@
 +++
 title = 'First post, fourth revision'
 date = 2026-09-11T14:09:00-06:00
-draft = true
+draft = false
 +++
 # The fourth time is the charm
 I finally took down my old dual-Xeon setup in favor of a single Ryzen machine.
