@@ -1,4 +1,4 @@
-baseURL = 'https://sharktooth.meme/'
+baseURL = 'https://sharktoothactual.github.io/website/'
 locale = 'en-us'
 title = 'Test Website'
 theme = 'ananke'
