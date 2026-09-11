@@ -5,7 +5,6 @@ theme = 'ananke'
 [params]
   subtitle = 'A very good website (but not always!)'
   mainSections = ["posts"]
-  show_recent_posts = true
   [params.contact]
     email = 'shark@sharktooth.meme'
     phone = '+1 111-867-5309'
