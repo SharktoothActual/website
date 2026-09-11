@@ -1,6 +1,6 @@
 +++
 title = 'Test post'
-date = 2026-09-11T10:01+5:00
+date = 2026-09-11T10:01:00+5:00
 draft = true
 +++
 # This is a heading
