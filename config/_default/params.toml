@@ -1,5 +1,10 @@
 [params]
 background_color_class = "bg-blue"
+mainSections = ["posts"]
+recent_posts_number = 3
 
 [ananke]
 show_recent_posts = true
+
+[ananke.home]
+content_alignment = "left"

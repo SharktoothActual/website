@@ -2,12 +2,3 @@ baseURL = 'https://sharktoothactual.github.io/website/'
 locale = 'en-us'
 title = "Shark's Website"
 theme = 'ananke'
-[params]
-  subtitle = 'A very good website (but not always!)'
-  mainSections = ["posts"]
-  [params.contact]
-    email = 'shark@sharktooth.meme'
-    phone = '+1 111-867-5309'
-
-[privacy.googleAnalytics]
-respectDoNotTrack = true
