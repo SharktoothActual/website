@@ -9,3 +9,6 @@ theme = 'ananke'
   [params.contact]
     email = 'shark@sharktooth.meme'
     phone = '+1 111-867-5309'
+
+[privacy.googleAnalytics]
+respectDoNotTrack = true
