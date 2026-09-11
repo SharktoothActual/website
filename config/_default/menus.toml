@@ -9,6 +9,10 @@ pageRef = "/posts/"
 weight = 20
 
 [[main]]
+pageRef = "About"
+weight = 25
+
+[[main]]
 name = "GitHub Repo"
 url = "https://github.com/SharktoothActual/website"
 weight = 30
