@@ -1,0 +1,13 @@
+/* adwaita-sans-latin-400-normal */
+@font-face {
+  font-family: 'Adwaita Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/adwaita-sans@5.3.0/latin-400-normal.woff2) format(woff2);
+}
+
+/* apply font globally */
+body, button, input, textarea, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Adwaita Sans', -apple-system, BlinkMacsystemFont, 'Segoe UI', Roboto, sans-serif;
+}
