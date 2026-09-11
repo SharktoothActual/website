@@ -1,4 +1,4 @@
-site_logo = "/images/shark.png"
+site_logo = "images/shark.png"
 background_color_class = "bg-darkred"
 mainSections = ["posts"]
 recent_posts_number = 3
