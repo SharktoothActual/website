@@ -1,7 +1,7 @@
 +++
 title = 'Test post'
 date = 2026-09-11T10:01:00-06:00
-draft = true
+draft = false
 +++
 # This is a heading
 ## This is a subheader
