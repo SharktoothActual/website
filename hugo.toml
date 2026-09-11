@@ -1,6 +1,7 @@
 baseURL = 'https://sharktooth.meme/'
 locale = 'en-us'
 title = 'Test Website'
+theme = 'ananke'
 [params]
   subtitle = 'Test Subtitle'
   [params.contact]
