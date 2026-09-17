@@ -1,5 +1,5 @@
 +++
-title = 'First post, fourth revision'
+title = 'First post (#4)'
 featured_image = "/images/header.png"
 omit_header_text = false
 date = 2026-09-11T14:09:00-06:00
