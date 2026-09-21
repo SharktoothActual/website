@@ -1,6 +1,5 @@
 +++
 title = "Game of Open Source Politics"
-<!-- featured_image = "/images/header.png" -->
 omit_header_text = false
 date = 2026-09-21T14:14:00-06:00
 summary = 'A Rant of Opinions and Assholes'
