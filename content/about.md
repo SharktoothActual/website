@@ -6,7 +6,7 @@ description = "Who we are and what we do."
 +++
 
 I'm Sharktooth. I do computery stuff sometimes. I can read code just fine, but I can't really write anything from scratch.
-I am the creator/maintainer of [kawr]{https://github.com/SharktoothActual/kawr}, which is a little command-line utility that keeps your PC awake.
+I am the creator/maintainer of [kawr](https://github.com/SharktoothActual/kawr), which is a little command-line utility that keeps your PC awake.
 It's written in C, which I don't really know, but thankfully AI was at least useful enough to get me started.
 
 The description on the page probably could stand to be updated, but I really did type every single line of code myself - even if AI technically wrote it.
