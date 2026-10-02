@@ -13,6 +13,6 @@ pageRef = "About"
 weight = 25
 
 [[main]]
-name = "GitHub Repo"
-url = "https://github.com/SharktoothActual/website"
+name = "kawr Repo"
+url = "https://github.com/SharktoothActual/kawr"
 weight = 30
